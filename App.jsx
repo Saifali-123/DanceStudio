@@ -67,17 +67,14 @@ export default function App() {
           <img src="./images/pic8.png"/>
           <img src="./images/pic9.png"/>
           <img src="./images/pic10.png"/>
-          <img src="./images/567703521_18132218365477434_3876392418664913414_n..png"/>
-          
           <img src="./images/image3.jfif"/>
           <img src="./images/image4.jfif"/>
           <img src="./images/image5.jfif"/>
           <img src="./images/image66.jfif"/>
           <img src="./images/image7.jfif"/>
           <img src="./images/image8.jfif"/>
-          
+          <img src="./images/image9.jfif"/>
           <img src="./images/image10.jfif"/>
-
         </div>
       </section>
 
