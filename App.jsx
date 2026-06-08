@@ -54,33 +54,31 @@ export default function App() {
       </section>
 
       {/* GALLERY */}
-      <section className="section">
-        <h2>Student Performances</h2>
-        <div className="grid">
-          <img src="./images/pic1.png"/>
-          <img src="./images/pic2.png"/>
-          <img src="./images/pic3.png"/>
-          <img src="./images/pic4.png"/>
-          <img src="./images/pic5.png"/>
-          <img src="./images/pic6.png"/>
-          <img src="./images/pic7.png"/>
-          <img src="./images/pic8.png"/>
-          <img src="./images/pic9.png"/>
-          <img src="./images/pic10.png"/>
-          <img src="./images/567703521_18132218365477434_3876392418664913414_n..jpg"/>
-         
-          <img src="./images/image2.jfif"/>
-          <img src="./images/image3.jfif"/>
-          <img src="./images/image4.jfif"/>
-          <img src="./images/image5.jfif"/>
-          <img src="./images/image66.jfif"/>
-          <img src="./images/image7.jfif"/>
-          <img src="./images/image8.jfif"/>
-          <img src="./images/image9.jfif"/>
-          <img src="./images/image10.jfif"/>
-        </div>
-      </section>
-
+<section className="section">
+  <h2>Student Performances</h2>
+  <div className="grid">
+    <img src="/DanceStudio/images/pic1.png" alt="Student Performance 1"/>
+    <img src="/DanceStudio/images/pic2.png" alt="Student Performance 2"/>
+    <img src="/DanceStudio/images/pic3.png" alt="Student Performance 3"/>
+    <img src="/DanceStudio/images/pic4.png" alt="Student Performance 4"/>
+    <img src="/DanceStudio/images/pic5.png" alt="Student Performance 5"/>
+    <img src="/DanceStudio/images/pic6.png" alt="Student Performance 6"/>
+    <img src="/DanceStudio/images/pic7.png" alt="Student Performance 7"/>
+    <img src="/DanceStudio/images/pic8.png" alt="Student Performance 8"/>
+    <img src="/DanceStudio/images/pic9.png" alt="Student Performance 9"/>
+    <img src="/DanceStudio/images/pic10.png" alt="Student Performance 10"/>
+    <img src="/DanceStudio/images/567703521_18132218365477434_3876392418664913414_n..jpg" alt="Performance"/>
+    <img src="/DanceStudio/images/image2.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image3.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image4.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image5.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image66.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image7.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image8.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image9.jfif" alt="Student Performance"/>
+    <img src="/DanceStudio/images/image10.jfif" alt="Student Performance"/>
+  </div>
+</section>
       {/* VIDEOS */}
       <section className="section">
         <h2>Dance Videos</h2>
