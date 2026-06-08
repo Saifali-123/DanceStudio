@@ -67,6 +67,9 @@ export default function App() {
           <img src="./images/pic8.png"/>
           <img src="./images/pic9.png"/>
           <img src="./images/pic10.png"/>
+          <img src="./images/567703521_18132218365477434_3876392418664913414_n..jpg"/>
+          <img src="./images/image1.jfif"/>
+          <img src="./images/image2.jfif"/>
           <img src="./images/image3.jfif"/>
           <img src="./images/image4.jfif"/>
           <img src="./images/image5.jfif"/>
